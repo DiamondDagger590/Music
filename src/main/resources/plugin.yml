@@ -1,0 +1,10 @@
+name: Music
+version: ${project.version}
+main: com.diamonddagger590.music.Music
+api-version: 1.15
+authors: [DiamondDagger590]
+description: Music demo
+commands:
+  music:
+    description: The basic command for the plugin
+    aliases: [mus]
